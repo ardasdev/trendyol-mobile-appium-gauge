@@ -1,0 +1,43 @@
+# Giriş yapılmış olsun
+
+* Ana ekrana dön
+* "trendyol" elementine tıkla
+* "trendyol" paketi açılır
+* Varsa "acilis_popup" popup kapatılır
+* Gerekliyse giriş yapılır
+
+
+# Giriş yapılır
+
+* "hesabim_tab" elementine tıkla
+* "giris_yap_uye_ol_butonu" elementine tıkla
+* "eposta_input" elementine tıkla
+* "eposta_input" elementine "TRENDYOL_EMAIL" ortam değişkeni yazılır
+* "devam_et_butonu" elementine tıkla
+* "sifre_input" elementine tıkla
+* "sifre_input" elementine "TRENDYOL_SIFRE" ortam değişkeni yazılır
+* "giris_yap_butonu" elementine tıkla
+* "hesabim_kullanici_adi" elementi görünür olur
+
+# <kelime> araması yapılır
+
+* Ana ekrana dön
+* "trendyol" elementine tıkla
+* "trendyol" paketi açılır
+* Varsa "acilis_popup" popup kapatılır
+* "ana_sayfa_tab" elementine tıkla
+* "arama_kutusu" elementine tıkla
+* "arama_kutusu_in" elementine <kelime> yaz
+* Enter tuşuna basılır
+
+# İlk ürünün detay sayfası açılır
+
+* "kablosuz kulaklık" araması yapılır
+* "ilk_urun" elementine tıkla
+* "urun_detay_sayfasi" elementi görünür olur
+
+# Sepete bir ürün eklenmiş olsun
+
+* "kablosuz kulaklık" araması yapılır
+* "ilk_urun_sepete_ekle_butonu" elementine tıkla
+* "sepete_eklendi_adet" elementi görünür olur
